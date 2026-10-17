@@ -1,3 +1,1 @@
-# 使用Python构建RAG系统
-
-这是一个使用Python构建的RAG（检索增强生成）系统。
+# 使用Python构建RAG系统\n\n这是一个使用Python构建的RAG（检索增强生成）系统。\n
